@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.freelance.twatest",
+    "sha256_cert_fingerprints": ["3A:61:CB:72:48:E3:CD:BF:18:DE:D6:D1:AD:3B:56:6C:12:36:27:29:1F:82:BE:89:9F:CC:F0:13:99:A8:F7:DE"] }
+}]
